@@ -2,8 +2,8 @@
 ## Desarrollo de Software
 ### API Web
 
-##Rios Volentini, Federico
-##Luna Jandar, Emilio
+## Rios Volentini, Federico
+## Luna Jandar, Emilio
 
 ## Tareas
 Bifurcar (fork) el repositorio.
